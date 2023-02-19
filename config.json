@@ -1,0 +1,5 @@
+{
+    "API_TOKEN":"",
+    "OPENWEATHER_API_KEY":"",
+    "API_URL": "https://api.openweathermap.org/data/2.5/forecast"
+}
